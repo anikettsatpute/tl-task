@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.50ef0200.css",
-    "main.js": "/static/js/main.6d9d05e0.js",
-    "static/js/27.771756d8.chunk.js": "/static/js/27.771756d8.chunk.js",
-    "index.html": "/index.html"
+    "main.css": "/anikettsatpute.github.io/tl-task/static/css/main.a11fc906.css",
+    "main.js": "/anikettsatpute.github.io/tl-task/static/js/main.626937f8.js",
+    "static/js/787.bf6be429.chunk.js": "/anikettsatpute.github.io/tl-task/static/js/787.bf6be429.chunk.js",
+    "index.html": "/anikettsatpute.github.io/tl-task/index.html",
+    "main.a11fc906.css.map": "/anikettsatpute.github.io/tl-task/static/css/main.a11fc906.css.map",
+    "main.626937f8.js.map": "/anikettsatpute.github.io/tl-task/static/js/main.626937f8.js.map",
+    "787.bf6be429.chunk.js.map": "/anikettsatpute.github.io/tl-task/static/js/787.bf6be429.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.50ef0200.css",
-    "static/js/main.6d9d05e0.js"
+    "static/css/main.a11fc906.css",
+    "static/js/main.626937f8.js"
   ]
 }
