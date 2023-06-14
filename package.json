@@ -1,8 +1,8 @@
 {
   "name": "about-me",
   "version": "0.1.0",
-  "homepage": "/",
-  "private": true,
+  "homepage": "https://anikettsatpute.github.io/tl-task",
+  "private": false,
   "dependencies": {
     "@react-three/drei": "^9.74.8",
     "@react-three/fiber": "^8.13.1",
