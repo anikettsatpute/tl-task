@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/anikettsatpute.github.io/tl-task/static/css/main.a11fc906.css",
-    "main.js": "/anikettsatpute.github.io/tl-task/static/js/main.626937f8.js",
-    "static/js/787.bf6be429.chunk.js": "/anikettsatpute.github.io/tl-task/static/js/787.bf6be429.chunk.js",
-    "index.html": "/anikettsatpute.github.io/tl-task/index.html",
-    "main.a11fc906.css.map": "/anikettsatpute.github.io/tl-task/static/css/main.a11fc906.css.map",
-    "main.626937f8.js.map": "/anikettsatpute.github.io/tl-task/static/js/main.626937f8.js.map",
-    "787.bf6be429.chunk.js.map": "/anikettsatpute.github.io/tl-task/static/js/787.bf6be429.chunk.js.map"
+    "main.css": "/static/css/main.a11fc906.css",
+    "main.js": "/static/js/main.7e0bf51b.js",
+    "static/js/787.bf6be429.chunk.js": "/static/js/787.bf6be429.chunk.js",
+    "index.html": "/index.html",
+    "main.a11fc906.css.map": "/static/css/main.a11fc906.css.map",
+    "main.7e0bf51b.js.map": "/static/js/main.7e0bf51b.js.map",
+    "787.bf6be429.chunk.js.map": "/static/js/787.bf6be429.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a11fc906.css",
-    "static/js/main.626937f8.js"
+    "static/js/main.7e0bf51b.js"
   ]
 }
